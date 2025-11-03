@@ -84,5 +84,8 @@ public class StudentsController {
         return ResponseEntity.ok(studentResource);
     }
 
+    //mostrar todos los alumnos
+    //obtener todos los alumnos que tengan el mismo nombre
 
+    //eliminar alumnos
 }

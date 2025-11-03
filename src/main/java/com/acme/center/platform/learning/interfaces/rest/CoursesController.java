@@ -148,4 +148,7 @@ public class CoursesController {
         courseCommandService.handle(deleteCourseCommand);
         return ResponseEntity.ok("Course with given id successfully deleted");
     }
+
+    //obtener todos los cursos que tengan el mismo nombre
+
 }

@@ -95,4 +95,6 @@ public class ProfilesController {
         return ResponseEntity.ok(profileResources);
     }
 
+    //Eliminar perfil
+
 }
